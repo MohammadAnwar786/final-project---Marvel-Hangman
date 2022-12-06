@@ -37,3 +37,5 @@ if tries>0:
     print("Great guess, you got the word correct")
 else:
     print("Sorry, Try again.")
+
+# Video URL: https://www.youtube.com/watch?v=QLsZGSrT46o
