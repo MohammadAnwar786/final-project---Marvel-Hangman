@@ -1,4 +1,4 @@
-# final project: Guess that marvel
+# final project: Guess that marvel By: Mohammad Anwar & Taha Anwar
 import random
 
 marvel = ['ironman', 'thor', 'spiderman', 'blackwidow', 'captainamerica', 'wolverine', 'blackpanther', 'drstrange', 'deadpool', 'hulk', 'scarletwitch', 'antman', 'hawkeye', 'ghostrider', 'nightcrawler', 'professorx', 'thing', 'groot', 'starlord', 'rocketraccoon', 'silversurfer', 'punisher', 'pheonix', 'gambit', 'vision', 'colossus']
